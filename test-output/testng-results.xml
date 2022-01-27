@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="139828" started-at="2021-12-29T07:57:48Z" finished-at="2021-12-29T08:00:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="139828" started-at="2021-12-29T07:57:48Z" finished-at="2021-12-29T08:00:08Z">
+      <class name="SBActions_GB_main.CreateRequest_GB">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SBActions_GB_main.CreateRequest_GB@e25b2fe]" name="setup" is-config="true" duration-ms="11783" started-at="2021-12-29T13:27:48Z" finished-at="2021-12-29T13:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="RIPC_Login()[pri:0, instance:SBActions_GB_main.CreateRequest_GB@e25b2fe]" name="RIPC_Login" duration-ms="55254" started-at="2021-12-29T13:28:00Z" finished-at="2021-12-29T13:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RIPC_Login -->
+        <test-method status="PASS" signature="Create_Req()[pri:1, instance:SBActions_GB_main.CreateRequest_GB@e25b2fe]" name="Create_Req" duration-ms="2178" started-at="2021-12-29T13:28:55Z" finished-at="2021-12-29T13:28:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_Req -->
+        <test-method status="PASS" signature="skill_Req()[pri:2, instance:SBActions_GB_main.CreateRequest_GB@e25b2fe]" name="skill_Req" duration-ms="1688" started-at="2021-12-29T13:28:57Z" finished-at="2021-12-29T13:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skill_Req -->
+        <test-method status="PASS" signature="select_Req()[pri:3, instance:SBActions_GB_main.CreateRequest_GB@e25b2fe]" name="select_Req" duration-ms="7890" started-at="2021-12-29T13:28:59Z" finished-at="2021-12-29T13:29:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_Req -->
+        <test-method status="PASS" signature="select_jrss()[pri:4, instance:SBActions_GB_main.CreateRequest_GB@e25b2fe]" name="select_jrss" duration-ms="8478" started-at="2021-12-29T13:29:07Z" finished-at="2021-12-29T13:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_jrss -->
+        <test-method status="PASS" signature="req_detail()[pri:5, instance:SBActions_GB_main.CreateRequest_GB@e25b2fe]" name="req_detail" duration-ms="11511" started-at="2021-12-29T13:29:15Z" finished-at="2021-12-29T13:29:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- req_detail -->
+        <test-method status="PASS" signature="skill_loc()[pri:6, instance:SBActions_GB_main.CreateRequest_GB@e25b2fe]" name="skill_loc" duration-ms="9090" started-at="2021-12-29T13:29:27Z" finished-at="2021-12-29T13:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skill_loc -->
+        <test-method status="PASS" signature="alert_check()[pri:7, instance:SBActions_GB_main.CreateRequest_GB@e25b2fe]" name="alert_check" duration-ms="16" started-at="2021-12-29T13:29:36Z" finished-at="2021-12-29T13:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alert_check -->
+        <test-method status="PASS" signature="skill_price()[pri:8, instance:SBActions_GB_main.CreateRequest_GB@e25b2fe]" name="skill_price" duration-ms="8808" started-at="2021-12-29T13:29:36Z" finished-at="2021-12-29T13:29:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skill_price -->
+        <test-method status="PASS" signature="supp()[pri:9, instance:SBActions_GB_main.CreateRequest_GB@e25b2fe]" name="supp" duration-ms="23032" started-at="2021-12-29T13:29:45Z" finished-at="2021-12-29T13:30:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- supp -->
+      </class> <!-- SBActions_GB_main.CreateRequest_GB -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
